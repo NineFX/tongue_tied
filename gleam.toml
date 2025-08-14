@@ -1,0 +1,12 @@
+name = "tongue_tied"
+version = "1.0.0"
+
+description = ""
+licences = ["MIT"]
+repository = { type = "github", user = "NineFX", repo = "tongue_tied" }
+
+[dependencies]
+gleam_stdlib = ">= 0.44.0 and < 2.0.0"
+
+[dev-dependencies]
+gleeunit = ">= 1.0.0 and < 2.0.0"
