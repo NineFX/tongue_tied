@@ -1,7 +1,7 @@
 name = "tongue_tied"
 version = "1.0.0"
 
-description = ""
+description = "A BCP-47 parser written in Gleam"
 licences = ["MIT"]
 repository = { type = "github", user = "NineFX", repo = "tongue_tied" }
 
